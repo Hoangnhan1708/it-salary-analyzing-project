@@ -1,5 +1,11 @@
 # Programming for Data Science - Final Lab
 
+## Group information
+
+*No.4 group* 
+
+*Name:* Mini 1108
+
 ## Completion annoucement 📢 and Appreciation letter 💌
 
 Up to now, we've done most of the work planned. Some work flawlessly, some are still in progress. Therefore, this current version is yet to be the best version of itself, but soon, as we're having fun doing it, I hope we share the feeling and you're all still doing well.
