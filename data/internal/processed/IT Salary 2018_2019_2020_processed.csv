@@ -6,7 +6,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,39.0,Male,München,UX Designer,10.0,Senior,69000.0,English,100-1000,Ecom retailer
 2018,37.0,Male,München,Project Manager,8.0,Senior,98000.0,Deutsch,1000+,Insurance
 2018,32.0,Male,Berlin,Senior Android Developer,5.0,Senior,65000.0,English,1000+,Product
-2018,36.0,Female,München,Data science team lead,8.0,Senior,109000.0,English,1000+,
+2018,36.0,Female,München,Data science team lead,8.0,Senior,109000.0,English,1000+,Product
 2018,32.0,Male,Berlin,Test Automation Engineer,3.0,Senior,65000.0,English,100-1000,Startup
 2018,30.0,Male,München,Frontend Developer,8.0,Senior,60000.0,Deutsch,100-1000,Agency
 2018,40.0,Male,Berlin,Software Engineer,18.0,Senior,70000.0,English,100-1000,Product
@@ -50,7 +50,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,32.0,Male,München,PHP Developer,6.0,Senior,60000.0,English,100-1000,Product
 2018,31.0,Male,Frankfurt,Ruby developer,11.0,Senior,65000.0,English,100-1000,Product
 2018,33.0,Male,Berlin,Frontend Developer,10.0,Senior,70000.0,English,10-50,Startup
-2018,29.0,Male,,Embedded engineer,7.0,Middle,50000.0,English,up to 10,Product
+2018,29.0,Male,Berlin,Embedded engineer,7.0,Middle,50000.0,English,up to 10,Product
 2018,28.0,Male,München,Java Fullstack Developer,7.5,Middle,65000.0,Deutsch,50-100,Agency
 2018,32.0,Male,München,Senior Software Developer,10.0,Senior,78000.0,English,10-50,Startup
 2018,26.0,Female,Regensburg,Mobile App Developer,1.0,Junior,60000.0,Deutsch,1000+,Product
@@ -85,7 +85,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,30.0,Male,Berlin,iOS Developer,6.0,Senior,70000.0,English,100-1000,Product
 2018,32.0,Female,München,Graphic Designer,8.0,Middle,30000.0,English,up to 10,Startup
 2018,34.0,Female,Berlin,Manager,5.0,Middle,55000.0,English,100-1000,Startup
-2018,44.0,Male,München,Project Manager,14.0,Senior,73000.0,Russian,50-100,
+2018,44.0,Male,München,Project Manager,14.0,Senior,73000.0,Russian,50-100,Product
 2018,37.0,Male,Berlin,Senior/Lead Developer,15.0,Senior,85000.0,English,up to 10,Startup
 2018,32.0,Male,Stuttgart,Senior QA,4.0,Senior,65000.0,English,1000+,Agency
 2018,33.0,Male,Berlin,Technical Product Manager,8.0,Senior,58000.0,English,100-1000,Startup
@@ -104,8 +104,8 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,36.0,Male,Berlin,SW Developer,10.0,Middle,73000.0,English,50-100,Startup
 2018,35.0,Male,Berlin,Senior Engineer (PHP),15.0,Senior,120000.0,English,1000+,Product
 2018,28.0,Male,Frankfurt,webdev,5.0,Senior,50000.0,English,10-50,Product
-2018,32.0,Male,München,Web Developer ,3.0,Middle,58000.0,Deutsch,1000+,
-2018,33.0,Male,,Java Developer,11.0,Senior,65000.0,Deutsch,50-100,Product
+2018,32.0,Male,München,Web Developer ,3.0,Middle,58000.0,Deutsch,1000+,Product
+2018,33.0,Male,Berlin,Java Developer,11.0,Senior,65000.0,Deutsch,50-100,Product
 2018,36.0,Female,München,QA ,3.0,Middle,30000.0,English,10-50,Product
 2018,32.0,Male,Berlin,Machine Learning Engineer,8.0,Senior,80000.0,English,up to 10,Startup
 2018,32.0,Male,Berlin,Frontend Developer,10.0,Senior,70000.0,English,50-100,Startup
@@ -146,7 +146,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,39.0,Male,Berlin,Scala developer,20.0,Senior,84000.0,English,1000+,Product
 2018,26.0,Male,Berlin,UX/UI designer,5.0,Senior,52000.0,English,10-50,Startup
 2018,32.0,Male,München,Senior Java,12.0,Senior,85000.0,English,10-50,Product
-2018,30.0,Male,Berlin,SRE,7.0,Senior,75000.0,English,50-100,
+2018,30.0,Male,Berlin,SRE,7.0,Senior,75000.0,English,50-100,Product
 2018,32.0,Male,München,developer,6.0,Senior,63000.0,English,100-1000,Product
 2018,39.0,Male,Berlin,DBA,17.0,Senior,87000.0,English,1000+,Product
 2018,35.0,Female,Berlin,Software Engineer,14.0,Senior,65000.0,English,10-50,Startup
@@ -164,7 +164,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,32.0,Male,Frankfurt,Senior Software Engineer,13.0,Senior,102000.0,English,100-1000,Product
 2018,27.0,Male,Hamburg,Frontend Developer,11.0,Senior,60000.0,English,100-1000,Product
 2018,30.0,Male,Berlin,Software Engineer JavaSctipt,10.0,Senior,75000.0,English,1000+,Product
-2018,33.0,Male,Berlin,PM,15.0,Senior,85000.0,English,1000+,
+2018,33.0,Male,Berlin,PM,15.0,Senior,85000.0,English,1000+,Product
 2018,38.0,Male,Köln,Java Developer,12.0,Senior,60000.0,Deutsch,10-50,Consulting
 2018,35.0,Male,Berlin,Developer,9.0,Senior,60000.0,English,up to 10,Startup
 2018,36.0,Male,Berlin,Head of Engineering,15.0,Senior,85000.0,Deutsch,10-50,Product
@@ -200,7 +200,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,30.0,Male,Köln,Data scientist,5.0,Middle,80000.0,English,1000+,Product
 2018,36.0,Male,München,Data Scientist,5.0,Senior,92000.0,English,50-100,Agency
 2018,24.0,Male,München,IT Consultant,4.0,Middle,60000.0,English,100-1000,Agency
-2018,33.0,Male,Karlsruhe,Embedded SW Developer,13.0,Senior,90000.0,Deutsch,up to 10,
+2018,33.0,Male,Karlsruhe,Embedded SW Developer,13.0,Senior,90000.0,Deutsch,up to 10,Product
 2018,34.0,Female,München,C++ Developer ,6.0,Middle,63000.0,Deutsch,10-50,Product
 2018,29.0,Male,München,System Engineer,8.0,Senior,75000.0,English,50-100,Product
 2018,32.0,Female,Berlin,Marketing Manager,8.0,Senior,55000.0,English,100-1000,Startup
@@ -230,7 +230,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,39.0,Male,München,Software Engineer,15.0,Senior,68000.0,English,100-1000,Startup
 2018,25.0,Male,Berlin,C++ Developer,3.0,Middle,48500.0,English,10-50,Product
 2018,31.0,Male,Berlin,Java Developer ,0.0,Junior,49000.0,English,1000+,Product
-2018,52.0,Male,,Sysadmin,7.0,Middle,34000.0,Deutsch,up to 10,
+2018,52.0,Male,Berlin,Sysadmin,7.0,Middle,34000.0,Deutsch,up to 10,Product
 2018,26.0,Male,München,Low level software developer,5.0,Middle,68000.0,English,100-1000,Product
 2018,28.0,Male,Berlin,Full-stack Developer,7.0,Senior,75000.0,English,50-100,Startup
 2018,31.0,Male,Berlin,Lead Software Engineer,10.0,Senior,95000.0,English,1000+,Startup
@@ -252,7 +252,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,25.0,Male,Berlin,Java developer,4.0,Middle,48000.0,English,10-50,Agency
 2018,29.0,Male,Berlin,Team Lead,10.0,Senior,75000.0,English,100-1000,Startup
 2018,28.0,Male,München,Product Manager,5.0,Middle,65000.0,Russian,1000+,Product
-2018,49.0,Male,Frankfurt,PD,20.0,Senior,120000.0,English,1000+,
+2018,49.0,Male,Frankfurt,PD,20.0,Senior,120000.0,English,1000+,Product
 2018,38.0,Male,Stuttgart,IT Berater,18.0,Senior,84000.0,Russian,up to 10,Agency
 2018,26.0,Male,München,Java & JS Developer,4.0,Middle,54000.0,English,50-100,Product
 2018,25.0,Female,Berlin,Java developer ,1.0,Junior,40000.0,Deutsch,10-50,Product
@@ -272,10 +272,10 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,32.0,Male,München,Senior PHP Developer,18.0,Senior,67000.0,English,100-1000,Product
 2018,31.0,Female,Berlin,TA Engineer,8.0,Middle,46000.0,English,100-1000,Product
 2018,30.0,Male,Berlin,CTO,9.0,Senior,90000.0,English,up to 10,Agency
-2018,33.0,Male,München,Senior software engineer ,11.0,Senior,92000.0,English,50-100,
+2018,33.0,Male,München,Senior software engineer ,11.0,Senior,92000.0,English,50-100,Product
 2018,33.0,Male,Berlin,Java script,16.0,Senior,95000.0,English,10-50,Product
 2018,38.0,Male,München,Frontend,5.0,Senior,70000.0,English,10-50,Startup
-2018,30.0,Male,,Software Architect,11.0,Senior,115000.0,English,1000+,
+2018,30.0,Male,Berlin,Software Architect,11.0,Senior,115000.0,English,1000+,Product
 2018,28.0,Male,Berlin,Lead DevOps,7.0,Senior,70000.0,English,100-1000,Startup
 2018,37.0,Male,Brno,DevOps,17.0,Middle,35000.0,English,100-1000,Product
 2018,26.0,Male,Berlin,QA Lead,7.0,Senior,60000.0,English,100-1000,Product
@@ -287,7 +287,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,30.0,Male,Berlin,Python Developer,2.5,Middle,52000.0,English,50-100,Product and Projects
 2018,37.0,Male,Dresden,Developer,10.0,Senior,53000.0,Deutsch,100-1000,Product
 2018,30.0,Male,Berlin,Javascript Developer in Test,8.0,Senior,72000.0,English,1000+,Product
-2018,31.0,Male,,Software Architect,12.0,Senior,80000.0,English,1000+,
+2018,31.0,Male,Berlin,Software Architect,12.0,Senior,80000.0,English,1000+,Product
 2018,27.0,Male,Berlin,Scala developer,5.0,Middle,63000.0,English,1000+,E-Commerce
 2018,30.0,Male,Berlin,Front-end developer ,8.0,Senior,73300.0,English,1000+,Product
 2018,32.0,Male,München,DevOps Architect ,10.0,Senior,115000.0,English,1000+,Development
@@ -299,14 +299,14 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,24.0,Male,Berlin,SEM Manager,5.0,Middle,45000.0,English,100-1000,Startup
 2018,32.0,Male,Dublin,IOS developer ,7.0,Senior,57000.0,English,50-100,Product
 2018,29.0,Female,Amsterdam,Backend developer,4.0,Middle,58000.0,English,10-50,Startup
-2018,30.0,Male,Amsterdam,Lead developer,8.0,Senior,65000.0,English,1000+,
+2018,30.0,Male,Amsterdam,Lead developer,8.0,Senior,65000.0,English,1000+,Product
 2018,23.0,Male,Eindhoven,Python Developer,5.0,Senior,47500.0,English,50-100,Product
-2018,33.0,Male,München,iOS Developer,12.0,Middle,70000.0,English,,Product
+2018,33.0,Male,München,iOS Developer,12.0,Middle,70000.0,English,1000+,Product
 2018,21.0,Male,Amsterdam,Software Engineer 2(Frontend),4.0,Middle,90000.0,English,1000+,Product
 2018,32.0,Female,Berlin,QA Automation Engineer,5.0,Middle,50000.0,English,50-100,Startup
 2018,33.0,Male,Berlin,Senior Software Engineer,12.0,Senior,85000.0,English,1000+,Product
 2018,30.0,Male,Amsterdam ,Systems engineer,8.0,Senior,65000.0,English,1000+,Product
-2018,34.0,Male,Berlin,Oracle Developer,5.0,Middle,62000.0,Deutsch,100-1000,
+2018,34.0,Male,Berlin,Oracle Developer,5.0,Middle,62000.0,Deutsch,100-1000,Product
 2018,40.0,Male,München,Oracle Pl/SQL Developer,20.0,Senior,60000.0,Deutsch,10-50,Product
 2018,28.0,Female,Luxembourg,BI developer,8.0,Middle,66000.0,French,100-1000,Agency
 2018,32.0,Male,Amsterdam,Senior JS Enigneer,15.0,Senior,75000.0,English,100-1000,Product
@@ -319,9 +319,9 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,25.0,Male,München,QA Engineer,5.0,Middle,56000.0,English,1000+,Product
 2018,33.0,Male,Konstanz,Data Scientist,10.0,Middle,65000.0,English,50-100,Product
 2018,25.0,Male,Amsterdam,Software Developer,6.0,Middle,78000.0,English,1000+,Product
-2018,25.0,Male,Amsterdam,Python Test Automation Engineer,4.0,Senior,60000.0,English,100-1000,
+2018,25.0,Male,Amsterdam,Python Test Automation Engineer,4.0,Senior,60000.0,English,100-1000,Product
 2018,35.0,Male,München,Senior Java Developer,12.0,Senior,85000.0,English,100-1000,Product
-2018,34.0,Female,,Senior .Net developer,12.0,Senior,61000.0,English,1000+,Product
+2018,34.0,Female,Berlin,Senior .Net developer,12.0,Senior,61000.0,English,1000+,Product
 2018,31.0,Male,Amsterdam,C++ Engineer,10.0,Senior,68000.0,English,1000+,Product
 2018,28.0,Male,Berlin,Senior Software Engineer ,8.0,Senior,60000.0,English,10-50,Product
 2018,26.0,Male,Hamburg,Scala Developer,5.0,Senior,81000.0,English,100-1000,Startup
@@ -348,7 +348,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,32.0,Male,Frankfurt,System administrator,1.0,Junior,30000.0,Russian,up to 10,Product
 2018,31.0,Male,Berlin,Scala Developer,9.0,Senior,60000.0,English,1000+,Startup
 2018,34.0,Male,Berlin,Senior Software Engineer ,12.0,Senior,75000.0,English,100-1000,Startup
-2018,30.0,Male,,CTO,10.0,Senior,130000.0,English,50-100,
+2018,30.0,Male,Berlin,CTO,10.0,Senior,130000.0,English,50-100,Product
 2018,26.0,Male,München,iOS Developer,4.0,Senior,70000.0,Russian,50-100,Product
 2018,28.0,Male,München,IT Consultant,3.0,Middle,62000.0,Deutsch,1000+,Consulting Company
 2018,34.0,Male,Berlin,QA,8.0,Senior,53500.0,English,100-1000,Startup
@@ -400,7 +400,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,36.0,Male,Hamburg,Senior Software Developer,10.0,Senior,65000.0,English,100-1000,Product
 2018,31.0,Female,München,Java Developer,9.0,Middle,47000.0,English,10-50,Agency
 2018,33.0,Male,Amsterdam,Tech lead,9.0,Middle,60000.0,English,100-1000,Product
-2018,36.0,Male,,SAP Consultant,12.0,Senior,72000.0,English,1000+,
+2018,36.0,Male,Berlin,SAP Consultant,12.0,Senior,72000.0,English,1000+,Product
 2018,26.0,Male,München,JavaScript Developer,5.0,Senior,68400.0,Team - Russian; Cross-team - English;,1000+,Agency
 2018,37.0,Male,Berlin,Software engineer ,15.0,Senior,55000.0,Deutsch,100-1000,Product
 2018,31.0,Male,München,Senior PHP developer,12.0,Senior,60000.0,English,1000+,Product
@@ -452,7 +452,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,26.0,Male,Berlin,Android developer,4.0,Middle,20400.0,English,10-50,Product
 2018,30.0,Male,Krakow,Project Manager,7.0,Senior,44000.0,Russian,1000+,Outsource
 2018,33.0,Female,London,Product Manager,10.0,Senior,70000.0,English,100-1000,Agency
-2018,25.0,Male,,C# Developer,2.0,Middle,24000.0,Russian,10-50,Product
+2018,25.0,Male,Berlin,C# Developer,2.0,Middle,24000.0,Russian,10-50,Product
 2018,26.0,Female,München,Software developer,4.0,Middle,47300.0,English,50-100,Product
 2018,45.0,Male,Berlin,java developer,8.0,Middle,53000.0,Deutsch,1000+,Agency
 2018,32.0,Male,Krakow,Java Developer,10.0,Senior,23162.0,English,100-1000,Product
@@ -473,7 +473,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,32.0,Male,München,Senior Software Engineer,10.0,Senior,69000.0,English,100-1000,Product
 2018,38.0,Male,Berlin,Data Scientist,5.0,Senior,60000.0,English,up to 10,Product
 2018,27.0,Male,Warsaw,Data Processing Specialist,2.0,Middle,19200.0,Polish,50-100,Product
-2018,37.0,Male,,Python developer,2.0,Middle,30000.0,English,10-50,Product
+2018,37.0,Male,Berlin,Python developer,2.0,Middle,30000.0,English,10-50,Product
 2018,27.0,Male,München,Frontend,7.0,Senior,75000.0,English,100-1000,Product
 2018,35.0,Male,München,Full stack developer,13.0,Senior,63000.0,English,1000+,Product
 2018,28.0,Male,Memmingen,Senior Software engineer,8.0,Senior,92000.0,English,10-50,IT Consulting 
@@ -502,21 +502,21 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,35.0,Male,Hamburg,Senior PHP Developer,15.0,Senior,60000.0,Deutsch,10-50,Startup
 2018,29.0,Male,München,Head of Software Engineering ,11.0,Senior,120000.0,English,50-100,Startup
 2018,27.0,Female,München,QA Engineer,6.0,Middle,70000.0,English,100-1000,Product
-2018,30.0,Male,,Web Developer,9.0,Middle,44000.0,English,100-1000,Product
-2018,27.0,Male,Hamburg,Software Engineer,5.0,Middle,58500.0,,100-1000,Agency
+2018,30.0,Male,Berlin,Web Developer,9.0,Middle,44000.0,English,100-1000,Product
+2018,27.0,Male,Hamburg,Software Engineer,5.0,Middle,58500.0,English,100-1000,Agency
 2018,30.0,Female,Berlin,Quality Engineer,9.0,Middle,55000.0,English,100-1000,Startup
 2018,30.0,Male,München,Java dev,6.0,Senior,70000.0,English,50-100,Startup
 2018,25.0,Male,Münster,PHP developer,4.0,Middle,42000.0,English,1000+,Product
 2018,35.0,Male,Krakow,Staff Technical Product Manager,7.0,Senior,47000.0,English,100-1000,Product
 2018,31.0,Male,München,PHP Tech Lead,7.0,Senior,68000.0,English,100-1000,Product
 2018,33.0,Male,München,.NET Developer,4.0,Middle,65000.0,Deutsch,1000+,IT Consultancy 
-2018,32.0,Female,,UI Designer,10.0,Senior,56000.0,Deutsch,10-50,Product
-2018,32.0,Male,,.NET Developer,11.0,Senior,65000.0,English,50-100,Agency
+2018,32.0,Female,Berlin,UI Designer,10.0,Senior,56000.0,Deutsch,10-50,Product
+2018,32.0,Male,Berlin,.NET Developer,11.0,Senior,65000.0,English,50-100,Agency
 2018,32.0,Female,Berlin,Pyhon developer,2.0,Junior,47250.0,English,100-1000,Startup
 2018,33.0,Male,Berlin,C++ Software Developer,12.0,Senior,87000.0,English,1000+,Product
 2018,32.0,Male,München,Java Team Lead,12.0,Senior,85000.0,English,100-1000,Product
 2018,35.0,Female,München,Quality assurance,3.0,Junior,39000.0,English,100-1000,Product
-2018,40.0,Female,Frankfurt,DB ,4.0,Middle,65000.0,Deutsch,100-1000,
+2018,40.0,Female,Frankfurt,DB ,4.0,Middle,65000.0,Deutsch,100-1000,Product
 2018,28.0,Male,Berlin,Data Scientist,6.0,Senior,65000.0,English,10-50,Startup
 2018,35.0,Male,München,Senior Software Developer,13.0,Senior,65000.0,Deutsch,1000+,Product
 2018,34.0,Male,Berlin,Software Developer,15.0,Senior,69000.0,English,100-1000,Product
@@ -645,25 +645,25 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,32.0,Male,Berlin,Senior Sotfware Engineer (Typescript/Javascript),9.0,Senior,65000.0,English,1000+,Product
 2018,32.0,Male,München,c# developer,15.0,Middle,53600.0,Deutsch,10-50,Product
 2018,28.0,Male,München,Software Tester,7.0,Senior,60000.0,English,100-1000,Product
-2018,31.0,Male,,Data analyst,3.0,Middle,51600.0,English,100-1000,Product
+2018,31.0,Male,Berlin,Data analyst,3.0,Middle,51600.0,English,100-1000,Product
 2018,33.0,Male,Limassol,PHP Developer,12.0,Senior,39600.0,Russian,100-1000,Product
 2018,32.0,Male,Berlin,Solution Architect,3.0,Senior,60500.0,Deutsch,10-50,Agency
 2018,37.0,Male,Berlin,Software engineer,15.0,Senior,65000.0,English,10-50,Startup
 2018,30.0,Male,saint petersburg,c++,10.0,Senior,15000.0,Russian,100-1000,Product
 2018,30.0,Male,München,Business Analyst,7.0,Senior,120000.0,English,1000+,Product
 2018,32.0,Male,München,Fullstack,15.0,Senior,130000.0,English,100-1000,Product
-2018,33.0,Male,,Java Developer,1.0,Junior,42000.0,English,50-100,Agency
+2018,33.0,Male,Berlin,Java Developer,1.0,Junior,42000.0,English,50-100,Agency
 2018,28.0,Male,Köln,.net developer,3.0,Middle,45000.0,Deutsch,10-50,Product
 2018,37.0,Male,Erlangen,Projectingenieur,7.0,Senior,85000.0,Deutsch,1000+,Product
 2018,32.0,Male,Frankfurt,Java Developer,8.0,Senior,72000.0,English,100-1000,Product
 2018,36.0,Male,München,Frontend Developer,5.0,Middle,60000.0,English,50-100,Agency
 2018,30.0,Male,Berlin,Full Stack Developer,10.0,Middle,47000.0,English,10-50,Product
 2018,32.0,Male,München,C++ Developer,5.0,Middle,75000.0,English,10-50,Project-based software development
-2018,39.0,Male,,Gruppenleiter Testing,10.0,Senior,130000.0,Deutsch,100-1000,
+2018,39.0,Male,Berlin,Gruppenleiter Testing,10.0,Senior,130000.0,Deutsch,100-1000,Product
 2018,29.0,Male,München,.net developer,8.0,Senior,77000.0,English,1000+,Product
-2018,35.0,Female,,Java Developer,2.0,Junior,42000.0,Deutsch,10-50,Product
+2018,35.0,Female,Berlin,Java Developer,2.0,Junior,42000.0,Deutsch,10-50,Product
 2018,36.0,Female,München, Java Developer,7.0,Senior,80000.0,English,1000+,Automotive
-2018,37.0,Male,Berlin,Teamlead,17.0,Senior,95000.0,English,100-1000,
+2018,37.0,Male,Berlin,Teamlead,17.0,Senior,95000.0,English,100-1000,Product
 2018,29.0,Male,Berlin,Senior Frontend Developer,9.0,Senior,60000.0,English,100-1000,Product
 2018,32.0,Male,München,QA,7.0,Senior,71000.0,English,100-1000,Product
 2018,32.0,Male,München,Full stack developer ,5.0,Senior,60000.0,English,10-50,Startup
@@ -705,7 +705,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2018,37.0,Male,Köln,Software Tester,5.0,Middle,53000.0,Deutsch,10-50,Agency
 2018,51.0,Male,Oberhausen,Sr. Database Entwickler (Oracle/Java),25.0,Senior,78000.0,Deutsch,100-1000,Product
 2018,32.0,Male,estonia,32,3.0,Senior,55555.0,English,up to 10,Agency
-2018,29.0,Male,Andernach,Java Developer,1.0,Junior,42000.0,Russian,up to 10,
+2018,29.0,Male,Andernach,Java Developer,1.0,Junior,42000.0,Russian,up to 10,Product
 2018,25.0,Male,München,Developer,4.0,Middle,60000.0,English,1000+,Product
 2018,32.0,Male,Berlin,Lead software engineer,17.0,Senior,85000.0,English,1000+,Product
 2018,33.0,Male,Nürnberg ,Project Manager ,11.0,Senior,75000.0,English,1000+,Product
@@ -736,7 +736,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,31.0,Male,Berlin,Data Scientist,6.0,Senior,78000.0,English,1000+,Product
 2019,24.0,Male,Berlin,Machine Learning Engineer,2.0,Middle,70000.0,English,10-50,Startup
 2019,28.0,Male,Hamburg,Backend Developer,7.0,Senior,55000.0,English,100-1000,Product
-2019,32.0,Male,Frankfurt,DevOps,12.0,Senior,160000.0,Deutsch,1000+,
+2019,32.0,Male,Frankfurt,DevOps,12.0,Senior,160000.0,Deutsch,1000+,Product
 2019,27.0,Male,Berlin,Data Engineer,5.0,Senior,75000.0,English,1000+,Product
 2019,32.0,Male,Berlin,DevOps,13.0,Senior,60000.0,English,50-100,Product
 2019,32.0,Male,Berlin,DevOps,7.0,Senior,72000.0,English,1000+,Product
@@ -795,7 +795,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,30.0,Male,Berlin,Data Scientist,6.0,Lead,115000.0,English,1000+,Startup
 2019,26.0,Male,Munich,QA,6.0,Middle,65000.0,English,1000+,Product
 2019,30.0,Male,Munich,DevOps,10.0,Middle,80000.0,English,1000+,Product
-2019,32.0,Male,Berlin,Mobile Developer,7.0,Middle,66000.0,English,1000+,
+2019,32.0,Male,Berlin,Mobile Developer,7.0,Middle,66000.0,English,1000+,Product
 2019,35.0,Male,Munich,DevOps,16.0,Senior,72000.0,Deutsch,1000+,Consulting / Agency
 2019,35.0,Male,Berlin,Frontend Developer,11.0,Senior,72000.0,English,50-100,Product
 2019,38.0,Male,Berlin,DevOps,7.0,Middle,67000.0,English,1000+,Startup
@@ -809,7 +809,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,27.0,Male,Berlin,Manager,2.0,Middle,52000.0,English,100-1000,Product
 2019,36.0,Male,Berlin,Support,19.0,Middle,36000.0,English,100-1000,Startup
 2019,39.0,Female,Hamburg,Backend Developer,2.0,Middle,55000.0,Deutsch,100-1000,Product
-2019,36.0,Male,Berlin,Manager,14.0,Senior,95000.0,English,10-50,
+2019,36.0,Male,Berlin,Manager,14.0,Senior,95000.0,English,10-50,Product
 2019,33.0,Male,Berlin,Backend Developer,10.0,Senior,60000.0,English,10-50,Product
 2019,30.0,Male,Berlin,Frontend Developer,7.0,Middle,56500.0,English,100-1000,Product
 2019,32.0,Male,Berlin,Backend Developer,12.0,Senior,68000.0,English,50-100,Product
@@ -843,7 +843,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,32.0,Male,Munich,DevOps,14.0,Senior,92000.0,English,1000+,Product
 2019,42.0,Male,Munich,Software Architect,20.0,Senior,106000.0,Deutsch,100-1000,Product
 2019,42.0,Female,Munich,Business Analyst,15.0,Senior,71000.0,Deutsch,1000+,Bodyshop / Outsource
-2019,34.0,Female,Berlin,"Designer (UI, UX)",8.0,Senior,52000.0,English,,Startup
+2019,34.0,Female,Berlin,"Designer (UI, UX)",8.0,Senior,52000.0,English,1000+,Startup
 2019,30.0,Male,Berlin,Backend Developer,10.0,Middle,70000.0,English,100-1000,Product
 2019,45.0,Female,Munich,Frontend Developer,2.0,Junior,36000.0,Deutsch,10-50,Consulting / Agency
 2019,35.0,Male,Frankfurt,QA,9.0,Middle,60500.0,English,100-1000,Bodyshop / Outsource
@@ -877,7 +877,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,32.0,Male,Munich,DevOps,9.0,Senior,90000.0,English,1000+,Product
 2019,29.0,Male,Krakow,QA,7.0,Senior,45000.0,English,100-1000,Product
 2019,25.0,Female,Munich,Frontend Developer,2.0,Junior,42000.0,Deutsch,50-100,Consulting / Agency
-2019,26.0,Male,Munich,Backend Developer,5.0,Middle,59000.0,English,,Product
+2019,26.0,Male,Munich,Backend Developer,5.0,Middle,59000.0,English,1000+,Product
 2019,44.0,Male,Munich,Frontend Developer,5.0,Middle,60000.0,Deutsch,100-1000,Product
 2019,28.0,Male,Berlin,Backend Developer,7.0,Senior,65000.0,English,50-100,Startup
 2019,45.0,Female,Frankfurt,Database Developer (DBA),2.0,Middle,62000.0,Deutsch,50-100,Product
@@ -925,10 +925,10 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,34.0,Male,Berlin,Frontend Developer,10.0,Senior,68000.0,English,100-1000,Product
 2019,33.0,Male,Munich,Fullstack Developer,15.0,Senior,120000.0,English,100-1000,Product
 2019,31.0,Male,Frankfurt,System Administrator,10.0,Middle,65000.0,English,100-1000,Product
-2019,37.0,Male,Munich,Business Analyst,15.0,Middle,87000.0,English,1000+,
+2019,37.0,Male,Munich,Business Analyst,15.0,Middle,87000.0,English,1000+,Product
 2019,33.0,Male,Munich,QA,5.0,Senior,70000.0,English,1000+,Product
 2019,34.0,Female,Berlin,QA,12.0,Senior,74000.0,Deutsch,1000+,Product
-2019,32.0,Male,Munich,Mobile Developer,14.0,Senior,90000.0,English,,Product
+2019,32.0,Male,Munich,Mobile Developer,14.0,Senior,90000.0,English,1000+,Product
 2019,38.0,Male,Berlin,Backend Developer,13.0,Senior,77400.0,Deutsch,100-1000,Product
 2019,32.0,Male,Berlin,QA,13.0,Senior,65000.0,English,100-1000,Product
 2019,27.0,Male,Berlin,QA,7.0,Senior,63000.0,English,50-100,Startup
@@ -937,7 +937,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,31.0,Male,Stuttgart,Mobile Developer,6.0,Middle,50000.0,Deutsch,1000+,Product
 2019,42.0,Male,Berlin,"CTO (CEO, CFO)",20.0,Senior,120000.0,English,100-1000,Startup
 2019,25.0,Female,Munich,Manager,1.0,Junior,43200.0,Deutsch,1000+,Consulting / Agency
-2019,32.0,Male,Hamburg,DevOps,15.0,Senior,78000.0,English,50-100,
+2019,32.0,Male,Hamburg,DevOps,15.0,Senior,78000.0,English,50-100,Product
 2019,38.0,Male,Munich,Manager,12.0,Senior,96000.0,English,1000+,Consulting / Agency
 2019,34.0,Male,Munich,Manager,16.0,Senior,85000.0,English,1000+,Product
 2019,40.0,Male,Frankfurt,Software Architect,20.0,Senior,95000.0,English,1000+,Bodyshop / Outsource
@@ -972,7 +972,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,34.0,Male,Frankfurt,Software Architect,10.0,Senior,100000.0,English,1000+,Product
 2019,34.0,Male,Munich,Backend Developer,11.0,Senior,92000.0,English,50-100,Product
 2019,36.0,Male,Berlin,Backend Developer,10.0,Senior,78000.0,English,1000+,Product
-2019,33.0,Male,Hamburg,Software Engineer,13.0,Middle,55000.0,English,,Product
+2019,33.0,Male,Hamburg,Software Engineer,13.0,Middle,55000.0,English,1000+,Product
 2019,29.0,Female,Berlin,Machine Learning Engineer,3.0,Middle,46000.0,English,10-50,Startup
 2019,31.0,Male,Munich,Fullstack Developer,8.0,Senior,68000.0,English,10-50,Product
 2019,30.0,Male,Berlin,Backend Developer,12.0,Senior,70000.0,English,10-50,Startup
@@ -986,7 +986,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,43.0,Male,Berlin,Data Engineer,10.0,Senior,60000.0,Russian,up to 10,Startup
 2019,32.0,Female,Bern,QA,5.0,Middle,120000.0,Deutsch,1000+,Product
 2019,36.0,Male,Berlin,Software Architect,14.0,Senior,75000.0,English,100-1000,Product
-2019,30.0,Male,Munich,Backend Developer,6.0,Senior,67000.0,English,,Product
+2019,30.0,Male,Munich,Backend Developer,6.0,Senior,67000.0,English,1000+,Product
 2019,27.0,Male,Berlin,Frontend Developer,5.0,Senior,66000.0,English,100-1000,Product
 2019,28.0,Male,Frankfurt,Data Scientist,2.0,Middle,55000.0,Deutsch,100-1000,Product
 2019,34.0,Male,Berlin,Machine Learning Engineer,10.0,Senior,80000.0,English,50-100,Product
@@ -1012,7 +1012,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,32.0,Male,Berlin,Backend Developer,4.0,Senior,62000.0,English,50-100,Startup
 2019,32.0,Male,Berlin,Software Architect,8.0,Lead,106000.0,English,100-1000,Product
 2019,42.0,Female,Berlin,Backend Developer,12.0,Senior,55000.0,English,50-100,Product
-2019,32.0,Male,Darmstadt,Backend Developer,10.0,Senior,70000.0,Deutsch,100-1000,
+2019,32.0,Male,Darmstadt,Backend Developer,10.0,Senior,70000.0,Deutsch,100-1000,Product
 2019,30.0,Male,Hamburg,Data Scientist,6.0,Senior,85000.0,English,100-1000,Startup
 2019,32.0,Male,Frankfurt,Lawyer ,7.0,Senior,170000.0,English,100-1000,Consulting / Agency
 2019,30.0,Male,Berlin,Backend Developer,6.0,Senior,70000.0,Russian,100-1000,Startup
@@ -1023,10 +1023,10 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,35.0,Male,Berlin,Backend Developer,16.0,Senior,65000.0,English,100-1000,Product
 2019,30.0,Male,Berlin,Backend Developer,8.0,Senior,86000.0,English,100-1000,Product
 2019,34.0,Male,Berlin,Embedded Developer,12.0,Senior,60000.0,English,100-1000,Startup
-2019,29.0,Male,Dusseldorf,Backend Developer,8.0,Senior,70000.0,English,1000+,
+2019,29.0,Male,Dusseldorf,Backend Developer,8.0,Senior,70000.0,English,1000+,Product
 2019,41.0,Male,Munich,Backend Developer,0.0,Junior,55000.0,English,1000+,Product
 2019,33.0,Male,Karlsruhe,QA,7.0,Senior,67000.0,English,1000+,Product
-2019,31.0,Male,Frankfurt,Data Scientist,7.0,Senior,85000.0,English,1000+,
+2019,31.0,Male,Frankfurt,Data Scientist,7.0,Senior,85000.0,English,1000+,Product
 2019,25.0,Male,Kyiv,DevOps,4.0,Senior,60000.0,Russian,1000+,Product
 2019,27.0,Female,Berlin,Data Scientist,3.0,Middle,67000.0,English,1000+,Product
 2019,29.0,Male,Kyiv,DevOps,8.0,Senior,65000.0,Russian,50-100,Product
@@ -1045,22 +1045,22 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,41.0,Male,Munich,Backend Developer,20.0,Senior,78000.0,English,100-1000,Product
 2019,32.0,Male,Vienna,Software Architect,12.0,Lead,80000.0,English,1000+,Product
 2019,34.0,Male,Berlin,Backend Developer,13.0,Senior,70000.0,English,100-1000,Product
-2019,32.0,Male,Munich,Software Architect,10.0,Senior,120000.0,,1000+,Product
+2019,32.0,Male,Munich,Software Architect,10.0,Senior,120000.0,English,1000+,Product
 2019,45.0,Male,Berlin,Data Engineer,14.0,Middle,34446.0,English,50-100,Product
-2019,32.0,Male,Frankfurt,Backend Developer,8.0,Senior,108000.0,,100-1000,
-2019,32.0,Male,Munich,Data Scientist,8.0,Lead,130000.0,,1000+,Product
-2019,32.0,Male,Stuttgart,Fullstack Developer,6.0,Senior,90000.0,,,
+2019,32.0,Male,Frankfurt,Backend Developer,8.0,Senior,108000.0,English,100-1000,Product
+2019,32.0,Male,Munich,Data Scientist,8.0,Lead,130000.0,English,1000+,Product
+2019,32.0,Male,Stuttgart,Fullstack Developer,6.0,Senior,90000.0,English,1000+,Product
 2019,32.0,Female,Berlin,Data Scientist,7.0,Senior,65000.0,English,50-100,Startup
 2019,32.0,Male,Munich,Frontend Developer,4.0,Senior,70000.0,English,10-50,Product
 2019,36.0,Male,Kyiv,DevOps,3.0,Middle,38400.0,Russian,1000+,Bodyshop / Outsource
-2019,32.0,Male,Berlin,Data Scientist,6.0,Senior,96000.0,,,Product
+2019,32.0,Male,Berlin,Data Scientist,6.0,Senior,96000.0,English,1000+,Product
 2019,35.0,Male,Frankfurt,Product Manager,13.0,Senior,60000.0,Deutsch,10-50,Startup
 2019,32.0,Female,Munich,Backend Developer,8.0,Senior,62000.0,English,1000+,Product
 2019,29.0,Male,Munich,Frontend Developer,8.0,Middle,65000.0,English,100-1000,Product
 2019,33.0,Male,Munich,Backend Developer,11.0,Lead,90000.0,English,100-1000,Product
 2019,33.0,Male,Kyiv,System Administrator,15.0,Middle,36000.0,Russian,10-50,Consulting / Agency
 2019,39.0,Male,Munich,Fullstack Developer,15.0,Senior,75700.0,English,100-1000,Product
-2019,25.0,Female,Cologne,IT Security,2.0,Junior,46000.0,Deutsch,1000+,
+2019,25.0,Female,Cologne,IT Security,2.0,Junior,46000.0,Deutsch,1000+,Product
 2019,33.0,Female,Berlin,QA,5.0,Middle,63400.0,English,1000+,Product
 2019,35.0,Male,Munich,Backend Developer,16.0,Senior,70000.0,Russian,10-50,Product
 2019,34.0,Male,Berlin,Backend Developer,9.0,Senior,70000.0,English,1000+,Product
@@ -1070,7 +1070,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,32.0,Male,Munich,Software Architect,8.0,Senior,100000.0,Deutsch,10-50,Product
 2019,33.0,Male,Munich,Backend Developer,11.0,Senior,90000.0,English,1000+,Product
 2019,44.0,Male,Berlin,Frontend Developer,5.0,Senior,65000.0,English,10-50,Product
-2019,26.0,Male,Nuremberg,DevOps,0.0,Junior,55000.0,Deutsch,,
+2019,26.0,Male,Nuremberg,DevOps,0.0,Junior,55000.0,Deutsch,1000+,Product
 2019,30.0,Male,Berlin,Data Scientist,8.0,Senior,90000.0,English,50-100,Startup
 2019,37.0,Male,Stuttgart,Software Architect,11.0,Senior,105000.0,Deutsch,1000+,Product
 2019,24.0,Female,Frankfurt,Fullstack Developer,1.0,Junior,52000.0,Deutsch,1000+,Product
@@ -1093,7 +1093,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,35.0,Female,Madrid,Sales Engineer,12.0,Middle,46000.0,Spanish,1000+,Product
 2019,28.0,Male,Berlin,Backend Developer,6.0,Senior,52000.0,English,100-1000,Startup
 2019,32.0,Male,Berlin,Data Scientist,6.0,Senior,87000.0,English,50-100,Startup
-2019,26.0,Male,Frankfurt,Manager,5.0,Middle,65000.0,English,1000+,
+2019,26.0,Male,Frankfurt,Manager,5.0,Middle,65000.0,English,1000+,Product
 2019,25.0,Male,Berlin,DevOps,3.0,Middle,55000.0,English,100-1000,Startup
 2019,27.0,Female,Munich,QA,7.0,Senior,69000.0,English,1000+,Product
 2019,32.0,Male,Vienna,Data Scientist,2.0,Middle,70000.0,English,100-1000,Product
@@ -1106,7 +1106,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,37.0,Male,Berlin,Backend Developer,12.0,Senior,70000.0,English,50-100,Product
 2019,34.0,Male,Berlin,QA,8.0,Senior,59000.0,English,100-1000,Product
 2019,32.0,Male,Munich,Frontend Developer,20.0,Senior,63000.0,English,100-1000,Product
-2019,32.0,Male,Amsterdam,Data Scientist,8.0,Senior,98000.0,English,1000+,
+2019,32.0,Male,Amsterdam,Data Scientist,8.0,Senior,98000.0,English,1000+,Product
 2019,32.0,Male,Berlin,Backend Developer,8.0,Senior,73000.0,English,100-1000,Product
 2019,28.0,Female,Frankfurt,Mainframe,1.0,Junior,36000.0,Deutsch,10-50,Startup
 2019,25.0,Male,Karlsruhe,Machine Learning Engineer,4.0,Middle,52200.0,Deutsch,10-50,Consulting / Agency
@@ -1152,7 +1152,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,30.0,Male,Hamburg,Data Scientist,6.0,Senior,68000.0,English,100-1000,Product
 2019,30.0,Male,Berlin,Data Engineer,9.0,Middle,68000.0,English,100-1000,Product
 2019,29.0,Male,Berlin,Data Engineer,5.0,Middle,70000.0,English,100-1000,Startup
-2019,30.0,Male,Berlin,Data Scientist,5.0,Senior,85000.0,Deutsch,1000+,
+2019,30.0,Male,Berlin,Data Scientist,5.0,Senior,85000.0,Deutsch,1000+,Product
 2019,43.0,Male,Hamburg,Software Architect,15.0,Senior,54000.0,English,up to 10,Startup
 2019,34.0,Male,Paris,Data Scientist,9.0,Senior,75000.0,French,10-50,Startup
 2019,38.0,Male,Berlin,NLP Engineer,4.0,Senior,65000.0,English,100-1000,Startup
@@ -1218,7 +1218,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,24.0,Male,Brussels,Data Scientist,2.0,Junior,33000.0,French,1000+,Consulting / Agency
 2019,32.0,Male,Munich,Manager,16.0,Senior,64000.0,English,1000+,Consulting / Agency
 2019,27.0,Male,Berlin,Business Analyst,5.0,Senior,62000.0,English,100-1000,Consulting / Agency
-2019,39.0,Male,Berlin,Data Scientist,5.0,Senior,85000.0,Deutsch,,
+2019,39.0,Male,Berlin,Data Scientist,5.0,Senior,85000.0,Deutsch,1000+,Product
 2019,31.0,Male,Berlin,Product Manager,5.0,Middle,55000.0,Deutsch,50-100,Product
 2019,40.0,Female,Berlin,Backend Developer,10.0,Senior,68000.0,English,10-50,Startup
 2019,35.0,Male,Berlin,Software Architect,8.0,Senior,85000.0,English,1000+,Product
@@ -1239,7 +1239,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,30.0,Male,Berlin,Backend Developer,10.0,Senior,75000.0,English,100-1000,Startup
 2019,30.0,Male,Berlin,Fullstack Developer,6.0,Senior,70000.0,English,10-50,Product
 2019,32.0,Female,Berlin,Mobile Developer,7.0,Middle,55000.0,English,1000+,Product
-2019,29.0,Female,Berlin,Data Scientist,2.0,Middle,40000.0,English,100-1000,
+2019,29.0,Female,Berlin,Data Scientist,2.0,Middle,40000.0,English,100-1000,Product
 2019,32.0,Male,Berlin,Data Scientist,6.0,Senior,96000.0,English,100-1000,Startup
 2019,29.0,Male,Berlin,Fullstack Developer,8.0,Senior,72000.0,English,1000+,Startup
 2019,29.0,Male,Berlin,Backend Developer,7.0,Middle,60000.0,English,100-1000,Product
@@ -1248,7 +1248,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,26.0,Male,Frankfurt,Frontend Developer,6.0,Middle,76000.0,Deutsch,100-1000,Product
 2019,37.0,Male,Dublin,Manager,15.0,Senior,98000.0,English,1000+,Product
 2019,36.0,Male,Berlin,Backend Developer,10.0,Senior,62000.0,Deutsch,1000+,Product
-2019,33.0,Male,Berlin,Data Engineer,3.0,Senior,63000.0,English,,Product
+2019,33.0,Male,Berlin,Data Engineer,3.0,Senior,63000.0,English,1000+,Product
 2019,30.0,Male,Berlin,Software Architect,10.0,Senior,73000.0,English,1000+,Product
 2019,35.0,Female,Berlin,Frontend Developer,2.0,Junior,50000.0,English,100-1000,Startup
 2019,23.0,Male,Jyvaskyla,Backend Developer,2.0,Middle,36000.0,English,100-1000,Product
@@ -1302,7 +1302,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,27.0,Male,Berlin,Backend Developer,6.0,Senior,70000.0,English,100-1000,Product
 2019,28.0,Female,Berlin,Data Scientist,1.0,Junior,50000.0,Deutsch,10-50,Consulting / Agency
 2019,32.0,Male,Berlin,Software Engineer,10.0,Lead,83000.0,English,1000+,Product
-2019,26.0,Male,Munich,Backend Developer,3.0,Middle,56000.0,English,,Product
+2019,26.0,Male,Munich,Backend Developer,3.0,Middle,56000.0,English,1000+,Product
 2019,33.0,Female,Hamburg,QA,12.0,Senior,65000.0,English,100-1000,Product
 2019,31.0,Female,Berlin,Data Scientist,2.0,Middle,62000.0,English,100-1000,Startup
 2019,30.0,Male,Berlin,Fullstack Developer,8.0,Senior,60000.0,English,100-1000,Product
@@ -1315,17 +1315,17 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,31.0,Male,Berlin,Fullstack Developer,9.0,Senior,65000.0,English,50-100,Product
 2019,30.0,Male,Munich,QA,9.0,Senior,68000.0,English,1000+,Product
 2019,32.0,Male,Frankfurt,Data Scientist,8.0,Senior,106000.0,Deutsch,100-1000,Product
-2019,32.0,Male,Warsaw,Frontend Developer,8.0,Senior,70000.0,Russian,100-1000,
+2019,32.0,Male,Warsaw,Frontend Developer,8.0,Senior,70000.0,Russian,100-1000,Product
 2019,33.0,Male,Berlin,QA,14.0,Senior,52000.0,English,1000+,Product
 2019,37.0,Male,Berlin,Data Engineer,13.0,Senior,68000.0,English,50-100,Product
 2019,32.0,Male,Berlin,Machine Learning Engineer,6.0,Senior,102000.0,Deutsch,1000+,Product
 2019,32.0,Male,Hamburg,Mobile Developer,10.0,Senior,80000.0,English,100-1000,Startup
 2019,32.0,Female,Berlin,Manager,7.0,Senior,90000.0,English,1000+,Product
-2019,32.0,Male,Amsterdam,Data Scientist,11.0,Lead,128000.0,English,1000+,
+2019,32.0,Male,Amsterdam,Data Scientist,11.0,Lead,128000.0,English,1000+,Product
 2019,28.0,Male,Munich,Fullstack Developer,3.0,Senior,63000.0,English,1000+,Product
 2019,28.0,Male,Berlin,Frontend Developer,8.0,Lead,82000.0,English,100-1000,Product
 2019,26.0,Male,Munich,Fullstack Developer,5.0,Middle,50000.0,English,1000+,Product
-2019,32.0,Male,Munich,Software Architect,9.0,Senior,120000.0,English,1000+,
+2019,32.0,Male,Munich,Software Architect,9.0,Senior,120000.0,English,1000+,Product
 2019,39.0,Male,Berlin,Backend Developer,9.0,Middle,64800.0,English,100-1000,Consulting / Agency
 2019,28.0,Female,Berlin,Backend Developer,6.0,Senior,55000.0,English,10-50,Product
 2019,48.0,Male,Berlin,Backend Developer,15.0,Senior,65000.0,Deutsch,100-1000,Bodyshop / Outsource
@@ -1371,12 +1371,12 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,38.0,Male,Walldorf,Fullstack Developer,17.0,Senior,79000.0,Deutsch,1000+,Product
 2019,30.0,Male,Berlin,Backend Developer,7.0,Senior,87000.0,English,50-100,Startup
 2019,34.0,Male,Munich,Fullstack Developer,8.0,Lead,90000.0,English,100-1000,Product
-2019,32.0,Male,Berlin,Data Engineer,8.0,Senior,75000.0,English,100-1000,
+2019,32.0,Male,Berlin,Data Engineer,8.0,Senior,75000.0,English,100-1000,Product
 2019,31.0,Male,Berlin,Frontend Developer,3.0,Junior,48000.0,Deutsch,50-100,Consulting / Agency
 2019,36.0,Male,Berlin,QA,6.0,Middle,50000.0,Deutsch,100-1000,Product
 2019,31.0,Male,Berlin,DevOps,10.0,Senior,75000.0,English,1000+,Product
 2019,30.0,Male,Cologne,Data Scientist,5.0,Middle,73000.0,English,1000+,Product
-2019,29.0,Male,Cologne,Manager,4.0,Middle,52000.0,English,1000+,
+2019,29.0,Male,Cologne,Manager,4.0,Middle,52000.0,English,1000+,Product
 2019,34.0,Female,Berlin,Software Architect,2.0,Junior,45000.0,Deutsch,50-100,Product
 2019,31.0,Female,Berlin,Data Scientist,1.0,Junior,45000.0,English,10-50,Startup
 2019,33.0,Male,Berlin,Frontend Developer,8.0,Senior,70000.0,English,10-50,Startup
@@ -1408,7 +1408,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,33.0,Male,Amsterdam,Backend Developer,9.0,Middle,81000.0,English,1000+,Product
 2019,35.0,Male,Amsterdam,QA,10.0,Senior,65000.0,English,1000+,Product
 2019,31.0,Male,Berlin,Backend Developer,3.0,Middle,48000.0,English,100-1000,Product
-2019,29.0,Male,Berlin,Backend Developer,7.0,Middle,60000.0,English,1000+,
+2019,29.0,Male,Berlin,Backend Developer,7.0,Middle,60000.0,English,1000+,Product
 2019,23.0,Female,Amsterdam,Backend Developer,3.0,Middle,60000.0,English,1000+,Product
 2019,33.0,Male,Munich,Fullstack Developer,12.0,Senior,54000.0,English,up to 10,Startup
 2019,30.0,Male,Amsterdam,Frontend Developer,10.0,Middle,87500.0,English,1000+,Product
@@ -1436,7 +1436,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,29.0,Male,Amsterdam,Backend Developer,9.0,Senior,67000.0,English,1000+,Product
 2019,27.0,Male,Amsterdam,Backend Developer,5.0,Middle,65000.0,English,100-1000,Product
 2019,27.0,Male,Amsterdam,Backend Developer,4.0,Middle,62000.0,English,100-1000,Product
-2019,22.0,Female,Amsterdam,DevOps,2.0,Junior,43000.0,English,1000+,
+2019,22.0,Female,Amsterdam,DevOps,2.0,Junior,43000.0,English,1000+,Product
 2019,33.0,Male,Berlin,Backend Developer,10.0,Senior,87000.0,English,10-50,Bodyshop / Outsource
 2019,31.0,Male,Berlin,SRE,10.0,Senior,78000.0,English,1000+,Product
 2019,27.0,Male,Stuttgart,Fullstack Developer,6.0,Senior,48000.0,English,up to 10,Product
@@ -1459,7 +1459,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,28.0,Male,Gdańsk,Data Scientist,5.0,Middle,14000.0,English,100-1000,Bodyshop / Outsource
 2019,26.0,Male,Amsterdam,DevOps,6.0,Senior,68000.0,English,1000+,Product
 2019,37.0,Male,Amsterdam,Fullstack Developer,18.0,Middle,82000.0,English,1000+,Product
-2019,48.0,Male,Berlin,Network Engineer,16.0,Senior,67000.0,English,1000+,
+2019,48.0,Male,Berlin,Network Engineer,16.0,Senior,67000.0,English,1000+,Product
 2019,32.0,Male,Munich,Manager,20.0,Senior,90000.0,English,1000+,Product
 2019,30.0,Male,Wroclaw,Manager,8.0,Middle,53000.0,English,1000+,Bodyshop / Outsource
 2019,24.0,Male,Amsterdam,Frontend Developer,4.0,Middle,72000.0,English,1000+,Product
@@ -1484,7 +1484,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,29.0,Male,Berlin,Data Scientist,7.0,Senior,90000.0,English,1000+,Product
 2019,31.0,Male,Frankfurt,Backend Developer,7.0,Middle,74200.0,English,1000+,Product
 2019,29.0,Male,Amsterdam,Backend Developer,8.0,Senior,86000.0,English,1000+,Product
-2019,30.0,Male,Munich,Cloud Platform Engineer,15.0,Senior,117000.0,English,1000+,
+2019,30.0,Male,Munich,Cloud Platform Engineer,15.0,Senior,117000.0,English,1000+,Product
 2019,24.0,Female,Warsaw,RPA developer,1.0,Junior,48000.0,Polish,1000+,Bank
 2019,37.0,Male,Almere,Tech Lead,10.0,Senior,57600.0,English,10-50,Product
 2019,26.0,Male,Limassol,QA,7.0,Senior,63600.0,Russian,50-100,Product
@@ -1494,7 +1494,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2019,33.0,Male,Munich,Frontend Developer,5.0,Senior,78000.0,English,50-100,Startup
 2019,32.0,Female,Zurich,Machine Learning Engineer,8.0,Middle,120000.0,English,1000+,Product
 2019,29.0,Male,Stockholm,Backend Developer,6.0,Senior,60000.0,English,1000+,Product
-2019,23.0,Male,Tampere,Frontend Developer,1.0,Junior,36000.0,English,,
+2019,23.0,Male,Tampere,Frontend Developer,1.0,Junior,36000.0,English,1000+,Product
 2019,39.0,Male,Amsterdam,Mobile Developer,16.0,Senior,65000.0,English,50-100,Product
 2019,24.0,Female,Cologne,Data Scientist,1.0,Junior,49000.0,English,up to 10,Consulting / Agency
 2019,30.0,Male,Munich,Backend Developer,9.0,Senior,112000.0,Deutsch,100-1000,Consulting / Agency
@@ -1731,7 +1731,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,32.0,Male,Berlin,Backend Developer,8.0,Senior,65000.0,English,11-50,Product
 2020,44.0,Male,Berlin,Backend Developer,12.0,Senior,68000.0,English,11-50,Product
 2020,35.0,Male,Munich,Software Engineer,11.0,Senior,65000.0,German,101-1000,Product
-2020,33.0,Male,Munich,DevOps,15.0,Lead,90000.0,,101-1000,Product
+2020,33.0,Male,Munich,DevOps,15.0,Lead,90000.0,English,101-1000,Product
 2020,29.0,Male,Berlin,Software Engineer,5.0,Senior,75000.0,English,101-1000,Product
 2020,66.0,Male,Munich,Software Engineer,40.0,Lead,70000.0,German,51-100,Product
 2020,39.0,Female,Berlin,Software Engineer,10.0,Senior,70500.0,German,101-1000,Consulting / Agency
@@ -1856,7 +1856,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,30.0,Male,Munich,Mobile Developer,8.0,Senior,66000.0,English,1000+,Product
 2020,36.0,Male,Rosenheim,Data Science Manager,12.0,Manager,89200.0,English,1000+,Construction
 2020,35.0,Male,Berlin,Product Manager,10.0,Senior,90000.0,English,101-1000,Product
-2020,47.0,Male,Munich,DevOps,20.0,Senior,75000.0,,1000+,Product
+2020,47.0,Male,Munich,DevOps,20.0,Senior,75000.0,English,1000+,Product
 2020,31.0,Male,Berlin,Data Scientist,10.0,Lead,115000.0,English,1000+,Product
 2020,46.0,Male,Munich,Scrum Master,12.0,Senior,85000.0,German,1000+,Product
 2020,26.0,Male,Berlin,Mobile Developer,6.0,Senior,70000.0,English,101-1000,Product
@@ -1935,7 +1935,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,34.0,Male,Munich,Product Manager,7.0,Middle,72000.0,English,101-1000,Startup
 2020,30.0,Male,Ansbach,Software Engineer,4.0,Junior,42000.0,English,101-1000,Product
 2020,34.0,Male,Munich,Solutions architect,14.0,Head,95000.0,English,101-1000,Startup
-2020,33.0,Male,Berlin,Backend Developer,12.0,Senior,67000.0,English,101-1000,
+2020,33.0,Male,Berlin,Backend Developer,12.0,Senior,67000.0,English,101-1000,Product
 2020,43.0,Male,Berlin,Backend Developer,5.0,Middle,64000.0,English,101-1000,Product
 2020,32.0,Female,Stuttgart,Stuttgart,2.0,Junior,52000.0,English,1000+,Product
 2020,34.0,Male,Leipzig,Mobile Developer,14.0,Senior,60000.0,English,101-1000,Consulting / Agency
@@ -1950,7 +1950,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,27.0,Male,Berlin,Backend Developer,7.0,Senior,72000.0,English,11-50,Product
 2020,39.0,Male,Berlin,Product Manager,10.0,Lead,120000.0,English,1000+,Product
 2020,33.0,Male,Frankfurt,Software Engineer,10.0,Senior,26400.0,English,up to 10,Startup
-2020,28.0,Male,Berlin,Frontend Developer,8.0,Senior,68000.0,,,
+2020,28.0,Male,Berlin,Frontend Developer,8.0,Senior,68000.0,English,1000+,Product
 2020,33.0,Female,Munich,QA Engineer,6.5,Senior,58000.0,English,101-1000,Product
 2020,38.0,Male,Munich,ML Engineer,10.0,Lead,92000.0,English,51-100,Consulting / Agency
 2020,42.0,Male,Berlin,ML Engineer,20.0,Senior,80000.0,German,1000+,Product
@@ -2025,7 +2025,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,28.0,Female,Berlin,Software Engineer,8.0,Lead,80000.0,English,101-1000,Product
 2020,28.0,Male,Stuttgart,Backend Developer,5.0,Middle,55000.0,German,101-1000,Product
 2020,33.0,Male,Berlin,Software Engineer,13.0,Senior,75000.0,English,1000+,Product
-2020,25.0,Male,Berlin,Backend Developer,5.0,Senior,60000.0,,,
+2020,25.0,Male,Berlin,Backend Developer,5.0,Senior,60000.0,English,1000+,Product
 2020,38.0,Male,Köln,QA Engineer,7.0,Middle,54500.0,German,11-50,Consulting / Agency
 2020,40.0,Male,Frankfurt,Software Engineer,22.0,Senior,72000.0,German,1000+,Product
 2020,28.0,Male,Munich,"Fullstack engineer, ну или Software engineer",9.0,Senior,60000.0,English,up to 10,Startup
@@ -2043,7 +2043,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,33.0,Male,Berlin,Software Engineer,10.0,Middle,65000.0,English,1000+,Product
 2020,46.0,Male,Munich,Software Engineer,10.0,Senior,68500.0,English,51-100,Startup
 2020,27.0,Male,Berlin,Frontend Developer,8.0,Middle,45000.0,English,51-100,Product
-2020,30.0,Male,Samara,Backend Developer,2.0,Middle,12000.0,,,
+2020,30.0,Male,Samara,Backend Developer,2.0,Middle,12000.0,English,1000+,Product
 2020,32.0,Male,Berlin,Backend Developer,5.0,Middle,72000.0,English,11-50,Product
 2020,34.0,Male,Berlin,Software Engineer,15.0,Lead,80000.0,English,1000+,Product
 2020,33.0,Male,Berlin,Software Engineer,10.0,Senior,68000.0,English,11-50,Startup
@@ -2070,7 +2070,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,27.0,Female,Berlin,Data Scientist,3.0,Middle,58000.0,English,51-100,Product
 2020,50.0,Male,Berlin,Software Engineer,29.0,Lead,28800.0,German,11-50,IT-Outsourcing
 2020,35.0,Female,Berlin,Designer (UI/UX),15.0,Middle,53000.0,English,1000+,Product
-2020,40.0,Male,Berlin,Architect,10.0,Middle,89000.0,English,101-1000,
+2020,40.0,Male,Berlin,Architect,10.0,Middle,89000.0,English,101-1000,Product
 2020,35.0,Male,Helsinki,Backend Developer,11.0,Senior,66000.0,English,101-1000,Product
 2020,29.0,Male,Berlin,Backend Developer,10.0,Senior,80000.0,English,101-1000,Product
 2020,30.0,Male,Munich,Mobile Developer,8.0,Lead,75000.0,English,11-50,Startup
@@ -2095,7 +2095,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,32.0,Female,Berlin,Mobile Developer,7.0,Senior,63000.0,English,1000+,Product
 2020,30.0,Female,Berlin,QA Engineer,4.0,Middle,52000.0,English,51-100,Startup
 2020,23.0,Male,Berlin,Mobile Developer,3.0,Lead,65000.0,English,51-100,Startup
-2020,27.0,Female,Berlin,Backend Developer,3.0,Middle,60000.0,English,11-50,
+2020,27.0,Female,Berlin,Backend Developer,3.0,Middle,60000.0,English,11-50,Product
 2020,27.0,Male,Amsterdam,ML Engineer,4.0,Middle,62000.0,English,1000+,Product
 2020,27.0,Male,Berlin,Tech Lead / Full-Stack,5.0,Lead,90000.0,English,11-50,Startup
 2020,29.0,Male,Berlin,Frontend Developer,8.0,Senior,69000.0,English,1000+,Product
@@ -2140,7 +2140,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,29.0,Male,Tallinn,Mobile Developer,7.0,Senior,65000.0,English,101-1000,Startup
 2020,38.0,Male,Munich,Software Engineer,15.0,Senior,80000.0,English,51-100,Corporation
 2020,25.0,Female,Berlin,Frontend Developer,4.0,Middle,60000.0,English,11-50,Startup
-2020,28.0,Male,Berlin,Frontend Developer,6.0,Senior,66000.0,English,,
+2020,28.0,Male,Berlin,Frontend Developer,6.0,Senior,66000.0,English,1000+,Product
 2020,23.0,Male,Berlin,Software Engineer,3.0,Middle,60000.0,English,1000+,Product
 2020,30.0,Male,Munich,Software Engineer,10.0,Senior,75000.0,English,1000+,Product
 2020,32.0,Male,Berlin,Engineering Manager,10.0,Middle,85000.0,English,101-1000,Product
@@ -2186,9 +2186,9 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,36.0,Female,Munich,Frontend Developer,10.0,Middle,48000.0,German,101-1000,Product
 2020,29.0,Female,Berlin,Software Developer in Test,9.0,Lead,66000.0,English,101-1000,Startup
 2020,34.0,Male,Berlin,Mobile Developer,10.0,Senior,70000.0,English,51-100,Product
-2020,28.0,Female,Berlin,Data Scientist,4.0,Middle,65000.0,English,101-1000,
+2020,28.0,Female,Berlin,Data Scientist,4.0,Middle,65000.0,English,101-1000,Product
 2020,39.0,Male,Munich,Software Architect,20.0,Lead,122000.0,English,1000+,Product
-2020,32.0,Male,Berlin,Software Engineer,15.0,Senior,150000.0,English,,
+2020,32.0,Male,Berlin,Software Engineer,15.0,Senior,150000.0,English,1000+,Product
 2020,32.0,Male,Berlin,Software Engineer,6.0,Middle,58000.0,German,1000+,Product
 2020,37.0,Male,Berlin,QA Engineer,6.0,Middle,69200.0,English,101-1000,SaaS
 2020,32.0,Male,Munich,Software Engineer,7.0,Senior,72000.0,English,11-50,Startup
@@ -2332,7 +2332,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,35.0,Male,Berlin,Software Engineer,1.0,Junior,30000.0,German,up to 10,Product
 2020,33.0,Male,Berlin,ML Engineer,10.0,Senior,90000.0,English,1000+,Product
 2020,28.0,Male,Munich,Software Engineer,6.0,Middle,64000.0,English,101-1000,Product
-2020,21.0,Female,Cologne,Mobile Developer,2.0,Middle,50000.0,,,
+2020,21.0,Female,Cologne,Mobile Developer,2.0,Middle,50000.0,English,1000+,Product
 2020,25.0,Male,Berlin,Mobile Developer,2.0,Middle,44000.0,English,1000+,Product
 2020,25.0,Female,Hamburg,working student (QA),1.0,Student,12000.0,English,1000+,Product
 2020,32.0,Male,Berlin,Backend Developer,10.0,Lead,80000.0,English,51-100,Product
@@ -2365,7 +2365,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,41.0,Male,Munich,Software Engineer,19.0,Senior,75000.0,English,101-1000,Product
 2020,29.0,Male,Barcelona,Data Scientist,0.0,Junior,22000.0,English,51-100,Product
 2020,26.0,Female,Dusseldorf,BI Consultant SAP/ Data Engineer,5.0,Middle,65000.0,German,up to 10,Startup
-2020,32.0,Male,Paris,DevOps,12.0,Senior,62000.0,English,1000+,
+2020,32.0,Male,Paris,DevOps,12.0,Senior,62000.0,English,1000+,Product
 2020,30.0,Male,Berlin,Data Engineer,6.0,Middle,65000.0,English,1000+,Product
 2020,26.0,Male,London,DevOps,3.0,Middle,37000.0,English,51-100,Product
 2020,35.0,Female,Munich,Backend Developer,4.0,Middle,51000.0,German,101-1000,Insurance
@@ -2420,7 +2420,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,36.0,Male,Frankfurt,Software Engineer,16.0,Middle,65000.0,German,51-100,Consulting / Agency
 2020,30.0,Male,Berlin,DevOps,7.0,Middle,80000.0,English,1000+,Startup
 2020,30.0,Male,Berlin,Mobile Developer,8.0,Senior,60000.0,English,up to 10,Consulting / Agency
-2020,27.0,Male,Bucharest,QA Engineer,1.0,Junior,11000.0,,,
+2020,27.0,Male,Bucharest,QA Engineer,1.0,Junior,11000.0,English,1000+,Product
 2020,39.0,Male,Berlin,Software Engineer,19.0,Senior,87000.0,English,11-50,Startup
 2020,30.0,Male,Munich,Software Engineer,10.0,Senior,79000.0,English,11-50,Product
 2020,32.0,Male,Berlin,Software Engineer,11.0,Senior,100000.0,English,1000+,Product
@@ -2480,7 +2480,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,32.0,Male,Berlin,data engineer,11.0,Middle,68000.0,English,1000+,Product
 2020,26.0,Male,Berlin,Software Engineer,2.0,Middle,58000.0,English,1000+,Consulting / Agency
 2020,37.0,Male,Walldorf,ML Engineer,15.0,Lead,80000.0,English,1000+,Product
-2020,32.0,Male,Hamburg,Software Engineer,12.0,Senior,80000.0,German,,Consulting / Agency
+2020,32.0,Male,Hamburg,Software Engineer,12.0,Senior,80000.0,German,1000+,Consulting / Agency
 2020,39.0,Male,Munich,Software Engineer,8.0,Senior,130000.0,English,1000+,Product
 2020,26.0,Female,Berlin,Tech recruiting,2.5,Middle,40000.0,English,101-1000,Product
 2020,30.0,Male,Hamburg,Data Scientist,5.0,Head,80000.0,English,11-50,Startup
@@ -2497,7 +2497,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,28.0,Male,"Warsaw, Poland",Software Engineer,6.0,Middle,52800.0,English,51-100,Consulting / Agency
 2020,32.0,Female,Berlin,Data Scientist,1.0,Junior,55000.0,English,1000+,Product
 2020,42.0,Male,Berlin,Software Engineer,12.0,Lead,95000.0,English,101-1000,Product
-2020,27.0,Male,Berlin,ML Engineer,5.0,Senior,70000.0,,,
+2020,27.0,Male,Berlin,ML Engineer,5.0,Senior,70000.0,English,1000+,Product
 2020,29.0,Male,Munich,Data Scientist,4.0,Middle,61500.0,English,11-50,Consulting / Agency
 2020,29.0,Male,Munich,Software Engineer,4.0,Middle,78000.0,English,1000+,Semiconductor
 2020,27.0,Female,Berlin,Backend Developer,1.0,Junior,42000.0,German,101-1000,Product
@@ -2521,10 +2521,10 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,33.0,Male,Munich,Frontend Developer,14.0,Senior,80000.0,German,11-50,Product
 2020,33.0,Male,Frankfurt,Software Engineer,8.0,Senior,67000.0,English,11-50,Product
 2020,33.0,Male,Munich,Backend Developer,12.0,Middle,56000.0,English,101-1000,Product
-2020,29.0,Male,Milan,Data Scientist,3.0,Middle,32000.0,,11-50,Startup
+2020,29.0,Male,Milan,Data Scientist,3.0,Middle,32000.0,English,11-50,Startup
 2020,44.0,Female,Berlin,ML Engineer,13.0,Junior,45000.0,English,51-100,Consulting / Agency
 2020,31.0,Male,Berlin,Backend Developer,5.0,Senior,77000.0,English,1000+,Product
-2020,26.0,Male,Berlin,Data Scientist,2.0,Junior,55000.0,English,1000+,
+2020,26.0,Male,Berlin,Data Scientist,2.0,Junior,55000.0,English,1000+,Product
 2020,27.0,Male,Hamburg,Backend Developer,3.0,Middle,10001.0,English,11-50,Consulting / Agency
 2020,33.0,Male,Berlin,Product Manager,5.0,Middle,70000.0,English,1000+,Product
 2020,33.0,Male,Heilbronn,Senior Scrum Master (RTE),7.0,Lead,90000.0,German,1000+,Product
@@ -2545,7 +2545,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,34.0,Male,Munich,Backend Developer,13.0,Lead,105000.0,English,11-50,Startup
 2020,36.0,Male,Dortmund,Software Engineer,8.0,Senior,83000.0,English,1000+,Product
 2020,30.0,Female,Munich,Software Engineer,8.0,Senior,52000.0,German,1000+,Consulting / Agency
-2020,32.0,Male,Berlin,Software Engineer,10.0,Senior,62000.0,German,1000+,
+2020,32.0,Male,Berlin,Software Engineer,10.0,Senior,62000.0,German,1000+,Product
 2020,27.0,Male,Berlin,Data Engineer,6.0,Middle,74000.0,English,1000+,Product
 2020,27.0,Male,Berlin,QA Engineer,5.0,Middle,56700.0,English,101-1000,Product
 2020,33.0,Male,Berlin,Software Engineer,7.0,Middle,54000.0,English,51-100,Startup
@@ -2672,7 +2672,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,23.0,Female,Berlin,Data analyst ,1.0,Junior,36000.0,English,1000+,Startup
 2020,28.0,Male,Munich,Software Engineer,3.0,Junior,65000.0,English,1000+,Finance
 2020,36.0,Male,Berlin,Software Engineer,10.0,Principal,100000.0,English,1000+,Product
-2020,41.0,Male,Berlin,Designer (UI/UX),20.0,Senior,36000.0,English,,
+2020,41.0,Male,Berlin,Designer (UI/UX),20.0,Senior,36000.0,English,1000+,Product
 2020,30.0,Male,Heidelberg,Software Engineer,9.0,Senior,60000.0,English,1000+,Research
 2020,28.0,Male,Zurich,Software Engineer,6.0,Middle,100000.0,German,11-50,Product
 2020,29.0,Male,Berlin,Frontend Developer,5.0,Middle,66000.0,English,1000+,Product
@@ -2750,7 +2750,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,34.0,Male,Munich,Software Engineer,10.0,Senior,74000.0,English,1000+,Product
 2020,29.0,Male,Darmstadt,Data Scientist,5.0,Middle,65000.0,English,101-1000,Product
 2020,30.0,Male,Munich,DevOps,10.0,Lead,85000.0,English,1000+,Product
-2020,31.0,Male,Frankfurt,Product Manager,8.0,Lead,110000.0,,1000+,Product
+2020,31.0,Male,Frankfurt,Product Manager,8.0,Lead,110000.0,English,1000+,Product
 2020,24.0,Male,Munich,DevOps,3.0,Junior,77000.0,English,1000+,FAANG
 2020,35.0,Male,Frankfurt,Software Engineer,10.0,Senior,60000.0,English,101-1000,Consulting / Agency
 2020,31.0,Male,Munich,DevOps,6.0,Middle,60000.0,English,51-100,Consulting / Agency
@@ -2834,7 +2834,7 @@ Year,Age,Gender,City,Position,Years of experience,Current level,Current Salary,M
 2020,26.0,Male,Berlin,Backend Developer,5.0,Middle,72000.0,English,1000+,Product
 2020,29.0,Male,Berlin,Software Engineer,9.0,Senior,73000.0,English,1000+,Product
 2020,31.0,Male,Berlin,Backend Developer,4.0,Middle,50000.0,English,11-50,Product
-2020,36.0,Male,Stuttgart,Lead Developer,8.0,Lead,72000.0,German,101-1000,
+2020,36.0,Male,Stuttgart,Lead Developer,8.0,Lead,72000.0,German,101-1000,Product
 2020,36.0,Male,Berlin,Mobile Developer,10.0,Middle,68000.0,English,1000+,Product
 2020,29.0,Male,Munich,Data Scientist,6.0,Middle,70000.0,English,1000+,Product
 2020,30.0,Female,Berlin,Frontend Developer,3.0,Lead,57600.0,English,101-1000,Product
