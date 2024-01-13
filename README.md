@@ -18,3 +18,7 @@ Thanks to all opponent reading this, hope our "rivalry" grow strong ✨
 ## Description
 
 This project's main aim is to provide an overview of salary in IT industry in three following year 2018, 2019, 2020. 
+
+## Work assignment
+
+Arranged and assigned using `GitHub Issues`
